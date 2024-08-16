@@ -4,6 +4,7 @@
 	"description": "A javascript library for interacting with the C based Janus WebRTC Server",
 	"main": "npm/dist/janus.es.js",
 	"types": "npm/janus.d.ts",
+	"type": "module",
 	"files": [
 		"npm/dist",
 		"npm/src",
