@@ -1,5 +1,3 @@
 bundles/
-dist/
-src/
 node_modules/
 npm-debug.log
